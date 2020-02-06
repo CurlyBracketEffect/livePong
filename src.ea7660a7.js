@@ -5,4 +5,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"H99C":[function(require,module,exports) {
 "use strict";require("./styles/game.css");var e=r(require("./partials/Game"));function r(e){return e&&e.__esModule?e:{default:e}}var a=new e.default("game",512,256);!function e(){a.render(),requestAnimationFrame(e)}();
 },{"./styles/game.css":"vTxV","./partials/Game":"vzbO"}]},{},["H99C"], null)
-//# sourceMappingURL=/YOUR-REPO-NAME/src.8ef2aebb.js.map
+//# sourceMappingURL=/livePong/src.ea7660a7.js.map
